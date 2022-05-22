@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+mongo-data-4.4
+
+uploads
+
+vosk-model
